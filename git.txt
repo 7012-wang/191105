@@ -1,5 +1,5 @@
-git config --global user.name "pullauto"
-git config --global user.email "1207052876@qq.com"
+git config --global user.name 
+git config --global user.email 
 
 git add .
 git status
