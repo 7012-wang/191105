@@ -1,6 +1,6 @@
 > 使用vue2.0开发了高仿饿了么点餐系统练练手在这里和大家分享一下
 
-# 点餐系统
+# 二辉的个人点餐系统
 
 > vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
 
