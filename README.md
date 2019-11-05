@@ -4,18 +4,6 @@
 
 > vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
 
-
-## 演示 
-
-<a href="https://simonzhangiter.github.io/VueDemo_Sell_Eleme" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
-
-### 移动端演示
-扫二维码在手机上查看效果更好
-
-<img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="25%">
-
-
-
 ## 构建
 
 除此之外，vue-cli已经使用node配置了一套本地服务器和安装命令等，本地运行和打包只需要一个命令就可以搞定，非常的方便
